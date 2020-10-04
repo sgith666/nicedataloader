@@ -1,0 +1,20 @@
+{
+  "name": "nicedataloader",
+  "version": "1.0.6",
+  "description": "A wrapper to help pass parameters to graphQL graphql resolver when using dataloader ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "",
+  "keywords": [
+    "graphql",
+    "dataloader",
+    "parameters",
+    "arguments"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "dataloader": "^2.0.0"
+  }
+}
